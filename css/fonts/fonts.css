@@ -1,0 +1,37 @@
+
+
+@font-face {
+    font-family: 'senbold';
+    src: url('sen-bold-webfont.woff2') format('woff2'),
+         url('sen-bold-webfont.woff') format('woff'),
+         url('sen-bold-webfont.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+
+
+@font-face {
+    font-family: 'senextrabold';
+    src: url('sen-extrabold-webfont.woff2') format('woff2'),
+         url('sen-extrabold-webfont.woff') format('woff'),
+         url('sen-extrabold-webfont.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+
+
+@font-face {
+    font-family: 'senregular';
+    src: url('sen-regular-webfont.woff2') format('woff2'),
+         url('sen-regular-webfont.woff') format('woff'),
+         url('sen-regular-webfont.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+
+}
